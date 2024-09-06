@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "amadeus": "^10.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "next": "14.2.8",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.8"
+    "sass": "^1.78.0",
+    "serpapi": "^2.1.0"
   },
   "devDependencies": {
     "eslint": "^8",

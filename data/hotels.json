@@ -1,0 +1,2835 @@
+{
+	"brands": [
+		{
+			"id": 33,
+			"name": "Accor Live Limitless",
+			"children": [
+				{
+					"id": 275,
+					"name": "Angsana"
+				},
+				{
+					"id": 67,
+					"name": "Banyan Tree"
+				},
+				{
+					"id": 91,
+					"name": "Mercure"
+				},
+				{
+					"id": 276,
+					"name": "Mövenpick"
+				},
+				{
+					"id": 90,
+					"name": "Pullman Hotels and Resorts"
+				},
+				{
+					"id": 268,
+					"name": "Raffles"
+				},
+				{
+					"id": 273,
+					"name": "SO/"
+				}
+			]
+		},
+		{
+			"id": 289,
+			"name": "Four Seasons"
+		},
+		{
+			"id": 28,
+			"name": "Hilton Honors",
+			"children": [
+				{
+					"id": 7,
+					"name": "Conrad"
+				},
+				{
+					"id": 151,
+					"name": "Curio Collection"
+				},
+				{
+					"id": 54,
+					"name": "Hilton Hotels & Resorts"
+				},
+				{
+					"id": 41,
+					"name": "Waldorf Astoria"
+				}
+			]
+		},
+		{
+			"id": 37,
+			"name": "Hyatt",
+			"children": [
+				{
+					"id": 347,
+					"name": "Alila"
+				},
+				{
+					"id": 118,
+					"name": "Park Hyatt"
+				}
+			]
+		},
+		{
+			"id": 17,
+			"name": "IHG Hotels & Resorts",
+			"children": [
+				{
+					"id": 281,
+					"name": "Holiday Inn Resort"
+				},
+				{
+					"id": 2,
+					"name": "InterContinental Hotels & Resorts"
+				},
+				{
+					"id": 389,
+					"name": "Six Senses"
+				}
+			]
+		},
+		{
+			"id": 332,
+			"name": "Jumeirah Hotels and Resorts"
+		},
+		{
+			"id": 46,
+			"name": "Marriott Bonvoy",
+			"children": [
+				{
+					"id": 26,
+					"name": "JW Marriott Hotels"
+				},
+				{
+					"id": 72,
+					"name": "Le Méridien"
+				},
+				{
+					"id": 3,
+					"name": "Ritz-Carlton Hotel Company"
+				},
+				{
+					"id": 12,
+					"name": "Sheraton Hotels and Resorts"
+				},
+				{
+					"id": 136,
+					"name": "St. Regis"
+				},
+				{
+					"id": 137,
+					"name": "W Hotels"
+				},
+				{
+					"id": 39,
+					"name": "Westin Hotels & Resorts"
+				}
+			]
+		},
+		{
+			"id": 169,
+			"name": "NH Hotel Group",
+			"children": [
+				{
+					"id": 171,
+					"name": "NH Collection Hotels"
+				}
+			]
+		},
+		{
+			"id": 80,
+			"name": "Radisson Hotel Group",
+			"children": [
+				{
+					"id": 79,
+					"name": "Radisson Blu"
+				}
+			]
+		},
+		{
+			"id": 163,
+			"name": "RIU Hotels & Resorts",
+			"children": [
+				{
+					"id": 165,
+					"name": "Palace by RIU"
+				},
+				{
+					"id": 166,
+					"name": "RIU Hotels"
+				}
+			]
+		},
+		{
+			"id": 331,
+			"name": "Robinson"
+		},
+		{
+			"id": 203,
+			"name": "Taj Hotels"
+		}
+	],
+	"properties": [
+		{
+			"type": "hotel",
+			"name": "Villa Park, Maldives",
+			"description": "Casual bungalows at an airy resort with direct beach access, 5 restaurants & water sports.",
+			"link": "https://www.villaresorts.com/villa-park",
+			"gps_coordinates": {
+				"latitude": 3.4832212,
+				"longitude": 72.8024587
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$299",
+				"extracted_lowest": 299,
+				"before_taxes_fees": "$173",
+				"extracted_before_taxes_fees": 173
+			},
+			"total_rate": {
+				"lowest": "$2,990",
+				"extracted_lowest": 2990,
+				"before_taxes_fees": "$1,730",
+				"extracted_before_taxes_fees": 1730
+			},
+			"deal": "18% less than usual",
+			"deal_description": "Deal",
+			"nearby_places": [
+				{
+					"name": "Nalaguraidhoo",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "1 min"
+						}
+					]
+				},
+				{
+					"name": "Villa International airport maamigili"
+				},
+				{
+					"name": "Grill Terrace",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "3 min"
+						}
+					]
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOglAnEpVwY-HM7N4phIcRRBA9x2ZQKjfpjtpbD=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOglAnEpVwY-HM7N4phIcRRBA9x2ZQKjfpjtpbD=s10000"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/6AfFeXNbapbec3bFAZIP12CnU6W83bL14BeRvauwvxJbViX2hXDDeojjvrteeAwOAKQNjMvVxef7aEv2PYNIaarrtZzUhonbKGobPeGdnkqsmAC4dqbVLX99U1ueLffb8GdUDjffcHrr-tA1kmabtpuYOq7u6bA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAFe-1gYFAMmlDNYqd4Mm98UEZs1QCvc"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMFAq718pkDQbKKOIlY2hMHrBe5yCyjtXvYwmL4=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMFAq718pkDQbKKOIlY2hMHrBe5yCyjtXvYwmL4=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM2paJTIPKnQWI7YiklDESFCiByo4dMYMgfxFRH=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipM2paJTIPKnQWI7YiklDESFCiByo4dMYMgfxFRH=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/mOy8nEMqsB5FHH5zmy-9QGcJ746FebOmqSuQePzmXj554ROGLKaqf45IqNpYGloY6FPoMV1NY7X3CWQoHzs1t8fY8tBpFrtQQW-Dx9GT6_n-SJR2PNuuYCZ9ZI_DmPlQHqXKgezbENwbcMFzX0ShX0ccQ3eSBS0=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b5/c5/53/two-bedroom-overwater.jpg?w=2100&h=1400&s=1"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/1_8Zr3IJ-_sXApKjeK3WSJTetcF4tgksQYMLLJYv2k3PbwDnEczhkbunDwnY9Q-OeOXWcTol-ViLAMPLCtgShoT0SUHMWYBnzC8w8DFr9uMWXve0FyKcHjb_eZ_W8CvpuBcqRfUtmlSHilXNehxExd1Io-iwHhE=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b5/c1/a7/water-villa-aerial.jpg?w=2100&h=1400&s=1"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/tmu5W6-xbWjyc-hOy6LWvxVgAjgCvohK2F3lBtvLnHAbXaxkJZW0bByJBN3DTbBZmn2vnwn7FU9rbpeMSyUOnqS7rHkjUu7QIp6mceWGDcC3QBMA20SDWkww74xflaJdKB6l0_O3GA0mmSJPld5asPozRUTAsQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://cdn.worldota.net/t/1024x768/extranet/ab/4f/ab4f62c7728ddbbc49707f53c255a5d6eb065872.jpeg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP-7zV4HjUWSr7gju2kJsKiGt7JvCenpqsspFgD=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipP-7zV4HjUWSr7gju2kJsKiGt7JvCenpqsspFgD=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO3UnF7apIYj2U97LlogB7bX0_geGSaUevcOGXL=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipO3UnF7apIYj2U97LlogB7bX0_geGSaUevcOGXL=s10000"
+				}
+			],
+			"overall_rating": 4.7,
+			"reviews": 4703,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 3765
+				},
+				{
+					"stars": 4,
+					"count": 673
+				},
+				{
+					"stars": 3,
+					"count": 138
+				},
+				{
+					"stars": 2,
+					"count": 44
+				},
+				{
+					"stars": 1,
+					"count": 83
+				}
+			],
+			"location_rating": 3.8,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 816,
+					"positive": 713,
+					"negative": 73,
+					"neutral": 30
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 672,
+					"positive": 589,
+					"negative": 45,
+					"neutral": 38
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 546,
+					"positive": 470,
+					"negative": 28,
+					"neutral": 48
+				}
+			],
+			"amenities": [
+				"Breakfast ($)",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Hot tub",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Accessible",
+				"Child-friendly",
+				"Smoke-free property"
+			],
+			"id": "ChcIldL8gpqpxoJUGgsvZy8xdnl4Z3ZtdhAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChcIldL8gpqpxoJUGgsvZy8xdnl4Z3ZtdhAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Ayada Maldives",
+			"description": "Luxe villas with butlers on a posh resort set on a private island, offering dining, a spa & diving.",
+			"link": "http://www.ayadamaldives.com/",
+			"gps_coordinates": {
+				"latitude": 0.2786906,
+				"longitude": 73.3571778
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$688",
+				"extracted_lowest": 688,
+				"before_taxes_fees": "$457",
+				"extracted_before_taxes_fees": 457
+			},
+			"total_rate": {
+				"lowest": "$6,884",
+				"extracted_lowest": 6884,
+				"before_taxes_fees": "$4,568",
+				"extracted_before_taxes_fees": 4568
+			},
+			"nearby_places": [
+				{
+					"name": "Kooddoo-Viligili Airport"
+				},
+				{
+					"name": "Magu restaurant"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8fPljIU1HNyu5BbU_dWKcdENxExrEI0BM-Aom=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipN8fPljIU1HNyu5BbU_dWKcdENxExrEI0BM-Aom=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJhExFqav_ONIw3ThdGha4VWS0Mjrh623fT19h=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMJhExFqav_ONIw3ThdGha4VWS0Mjrh623fT19h=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwRStsixB7015DhUKMduFYYW8q0iKu_l27dwZ_=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPwRStsixB7015DhUKMduFYYW8q0iKu_l27dwZ_=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/Vh2jv5X4CavdEjjwmYc7cybL4aTyk4gelCyKtDt72H0QDlOzrHIIzU_ix_IDOJgblULWzdFFuVs3zolZlpQ63uQyx1bxicbEiJiBqFHiI6_BI16j95B8k-nbCyvPoK1vrdVuvAyd16B1EfCSGFMcmi5LGdN0BcQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KACjz3gYFAJoaqb4zM4ZLSWJd21--2gk"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_50k7m0DfcLyQqDLHRLHj-D-i1tIH_dq27nEj=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipM_50k7m0DfcLyQqDLHRLHj-D-i1tIH_dq27nEj=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPMRfCI71U7HtTQ_vYSJjn64huPVMSt9TgJzgZ9=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPMRfCI71U7HtTQ_vYSJjn64huPVMSt9TgJzgZ9=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP4GBmxLSSzZ7W5HyF8vvfw84Ofo3iT0lfKA1QH=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipP4GBmxLSSzZ7W5HyF8vvfw84Ofo3iT0lfKA1QH=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOiTtqFcro790im3xUFMC5QltavsVgXm6zOJgLA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOiTtqFcro790im3xUFMC5QltavsVgXm6zOJgLA=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOt5HijCbASlDpzDRUY64rWrzKTyv6dOcflAbQt=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOt5HijCbASlDpzDRUY64rWrzKTyv6dOcflAbQt=s10000"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 554,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 495
+				},
+				{
+					"stars": 4,
+					"count": 37
+				},
+				{
+					"stars": 3,
+					"count": 5
+				},
+				{
+					"stars": 2,
+					"count": 6
+				},
+				{
+					"stars": 1,
+					"count": 11
+				}
+			],
+			"location_rating": 2.8,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 127,
+					"positive": 117,
+					"negative": 7,
+					"neutral": 3
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 104,
+					"positive": 98,
+					"negative": 3,
+					"neutral": 3
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 65,
+					"positive": 57,
+					"negative": 6,
+					"neutral": 2
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Hot tub",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"id": "ChcIqNHisp6pyqZfGgsvZy8xdnl4Z3ZtdxAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChcIqNHisp6pyqZfGgsvZy8xdnl4Z3ZtdxAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Dhigufaru Island Resort",
+			"link": "http://www.dhigufaru.com/",
+			"gps_coordinates": {
+				"latitude": 5.3522197,
+				"longitude": 72.9900882
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$279",
+				"extracted_lowest": 279,
+				"before_taxes_fees": "$266",
+				"extracted_before_taxes_fees": 266
+			},
+			"total_rate": {
+				"lowest": "$2,786",
+				"extracted_lowest": 2786,
+				"before_taxes_fees": "$2,657",
+				"extracted_before_taxes_fees": 2657
+			},
+			"deal": "27% less than usual",
+			"deal_description": "Great Deal",
+			"nearby_places": [
+				{
+					"name": "Dharavandhoo Airport"
+				},
+				{
+					"name": "Ladudu Restaurant"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/4Y5eTv8CemzK5ve97SDc8clwdYdESDKFC3arb9fPbsTLcXUK7fplsJNWZQfgcrAZ182hpucCvOw0D_vgJ3_DzBgd6nf3QUTN9RSZTrZp5e7HSzMY--dbm7E7SNZvmnBTaEZv8GmziV7iA-NfXC6k-Muu_nMgipo=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://images.trvl-media.com/lodging/16000000/15910000/15906600/15906526/e738f9c9_z.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM1PzeOPvbAYYQfUjq-xUqygMgZ8XBjvHpD8Tss=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipM1PzeOPvbAYYQfUjq-xUqygMgZ8XBjvHpD8Tss=s10000"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/iKY56rVvY4KG3bEiOWFeDInM3adjYuHmsClJ4yfeZW8jUmcUa-9NdIE9SvKEQxOp_YWjzV5wJ96n5c5KR-MU6jlYRt2tFtAd_n8x3Oej0iUhntmklVg6Uwnr3p-zh5vNpzTay8Wb1ip40XdJ-j6tHduR3gMoRQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://cdn.worldota.net/t/1024x768/content/ef/00/ef0036cd6e437bb84a413cd86a3986966fb44eda.jpeg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/bQQtD5-jdN1Fp9Q-wwA-KraeGy0hJx4RMmt_3metEO5xA7hmlZcb6dkGDpOShq9HYzmyghGPwSobCM6K6vPDDys4Vm9BjgzCWgvLj1HDPNm4T4NBYE31-Dz_bNwfrCdaSe9BxoS0gJKrkO949LLgkPsIfw5B5Qw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/48/480261/480261a_hb_f_027.jpeg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/58XM3hIySS36fJ633h60OyKdF_NHS6jBnzb-7n6fE94H4ex98hB6RNRlHUgEJ_Qk3mjSjVfWbk6eA0b6-ZoZmxxCxFPwhYENrZP4ZblZgXjw3I3oifhwP0GyYYPax6ZtU7YSP0rN7FymakMi-nUaVzS_HoRa3ts=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://cdn.worldota.net/t/1024x768/content/34/07/3407141a16527b6d800da5c1de3932425861f05e.jpeg"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/NaQqbYEPOUx8Ll-gQJnNLy2py3cwphT3KThuy-pDFkkWJPbpjnzCsRs5MFJ3uUdHGnRhGfmBqI6s-KNxy-0FtOxomMsQSEvbxs2qb4Ecz886lobxWN9FBbXwTkbrOsCzNhD_-qh_ND7o0d-xixaGtoFuj-9_CBM=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KALHaTwQFAIb-iBCaWaIL41omJ6xEMPI"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/KxV0UXGUmDMeOocYgXS3rysdoBe1XLOGIp1kDzxQL6PGNXRkDFeSjMG-XiVoQYfdWcXOReg2t4vDt1wiH_imlZ466q60SAmRBqxWjFEQf_6qc5DztnNSM6WHwd4jc_xCs16rKuFqQEfE2IqTNKDW7Ec4VCxiJCY=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/48/480261/480261a_hb_l_008.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFepqCTLxlp6K4GskZ8sgxEOc9RwCWl5fIs__w=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNFepqCTLxlp6K4GskZ8sgxEOc9RwCWl5fIs__w=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNasS8RPGo4-cwg8sjakOeolBVlnDpdmxLrA_yX=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNasS8RPGo4-cwg8sjakOeolBVlnDpdmxLrA_yX=s10000"
+				}
+			],
+			"overall_rating": 4.6,
+			"reviews": 447,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 343
+				},
+				{
+					"stars": 4,
+					"count": 58
+				},
+				{
+					"stars": 3,
+					"count": 21
+				},
+				{
+					"stars": 2,
+					"count": 9
+				},
+				{
+					"stars": 1,
+					"count": 16
+				}
+			],
+			"location_rating": 2.8,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 125,
+					"positive": 100,
+					"negative": 20,
+					"neutral": 5
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 75,
+					"positive": 68,
+					"negative": 4,
+					"neutral": 3
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 62,
+					"positive": 53,
+					"negative": 5,
+					"neutral": 4
+				}
+			],
+			"amenities": [
+				"Breakfast",
+				"Free Wi-Fi",
+				"Pool",
+				"Hot tub",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"id": "ChkIk5iC5vqZ19krGg0vZy8xMWNuNXAxcWx5EAE",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChkIk5iC5vqZ19krGg0vZy8xMWNuNXAxcWx5EAE&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Royal Island Resort & Spa",
+			"description": "Polished tropical villas with ocean views, plus a swim-up bar, a spa & upscale or casual dining.",
+			"link": "https://www.villaresorts.com/royal-island/",
+			"gps_coordinates": {
+				"latitude": 5.1628964,
+				"longitude": 73.0530718
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$334",
+				"extracted_lowest": 334,
+				"before_taxes_fees": "$192",
+				"extracted_before_taxes_fees": 192
+			},
+			"total_rate": {
+				"lowest": "$3,340",
+				"extracted_lowest": 3340,
+				"before_taxes_fees": "$1,921",
+				"extracted_before_taxes_fees": 1921
+			},
+			"deal": "15% less than usual",
+			"deal_description": "Deal",
+			"nearby_places": [
+				{
+					"name": "Kunfunadhoo",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "5 min"
+						}
+					]
+				},
+				{
+					"name": "Dharavandhoo Airport"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNM3YFNJ-OpfLpmoZDdUer13gybLP_wJXdHtmrY=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNM3YFNJ-OpfLpmoZDdUer13gybLP_wJXdHtmrY=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOxqRlYRLZO9gL2odTniECuhQUOqQ883gLhlpa_=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOxqRlYRLZO9gL2odTniECuhQUOqQ883gLhlpa_=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYttMRof21ms2lG0SSNl3-lgJeUXe03vnyFJSN=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOYttMRof21ms2lG0SSNl3-lgJeUXe03vnyFJSN=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNH3HvlU0NLk81W_57_wlybdnJGiN0gpEHYMong=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNH3HvlU0NLk81W_57_wlybdnJGiN0gpEHYMong=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMlL9XPZ7IBqUNVGfkkG68KT8BjHaXcd_NjJmdr=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMlL9XPZ7IBqUNVGfkkG68KT8BjHaXcd_NjJmdr=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMzXjXRkqRGkg1y0lBcxuaa-qgNaK8UQe6ouo27=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMzXjXRkqRGkg1y0lBcxuaa-qgNaK8UQe6ouo27=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPldYjQzhnnIP8OSYoFxui5GCvi3Csr3NB0Jr2h=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPldYjQzhnnIP8OSYoFxui5GCvi3Csr3NB0Jr2h=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/I6Zw1mHXiau2ehuvEc4hCA1gx4-YTh4tFGtzWyILfGTxIxZH_3u-WuD0R2NO-tpBrYjCLZLIfnjIswV9nkwlKq-V_6jMoHF3uYZ3X_mVbAoMeXpbS9olu_LJ9EwyV_jxFpVNa3EI5TDbpHid9ZgO1G1J4NY1Tw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/7d/b0/07/beach-area-1st-december.jpg?w=2100&h=1400&s=1"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNVo7f2xCQKZrYODKtKPdTOMHYpO_JzyCpDD_pU=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNVo7f2xCQKZrYODKtKPdTOMHYpO_JzyCpDD_pU=s10000"
+				}
+			],
+			"overall_rating": 4.7,
+			"reviews": 1341,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 1080
+				},
+				{
+					"stars": 4,
+					"count": 170
+				},
+				{
+					"stars": 3,
+					"count": 39
+				},
+				{
+					"stars": 2,
+					"count": 22
+				},
+				{
+					"stars": 1,
+					"count": 30
+				}
+			],
+			"location_rating": 3,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 309,
+					"positive": 286,
+					"negative": 12,
+					"neutral": 11
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 209,
+					"positive": 194,
+					"negative": 10,
+					"neutral": 5
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 232,
+					"positive": 198,
+					"negative": 11,
+					"neutral": 23
+				}
+			],
+			"amenities": [
+				"Breakfast ($)",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Hot tub",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"id": "ChgI9t3g8pOczNHhARoLL2cvMXRkempfOTEQAQ",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChgI9t3g8pOczNHhARoLL2cvMXRkempfOTEQAQ&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "The Westin Maldives Miriandhoo Resort",
+			"description": "Upmarket resort offering chic suites & villas in a biosphere reserve, plus 3 restaurants & a spa.",
+			"link": "https://www.marriott.com/en-us/hotels/mlewi-the-westin-maldives-miriandhoo-resort/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+			"gps_coordinates": {
+				"latitude": 5.0631045,
+				"longitude": 73.0313037
+			},
+			"check_in_time": "3:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$623",
+				"extracted_lowest": 623,
+				"before_taxes_fees": "$433",
+				"extracted_before_taxes_fees": 433
+			},
+			"total_rate": {
+				"lowest": "$6,226",
+				"extracted_lowest": 6226,
+				"before_taxes_fees": "$4,326",
+				"extracted_before_taxes_fees": 4326
+			},
+			"nearby_places": [
+				{
+					"name": "Dharavandhoo Airport"
+				},
+				{
+					"name": "Island Kitchen",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "1 min"
+						}
+					]
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/D9b3AIZKUH2tx_2s74akeqnF2_0RTOND6Sa0gFbNaEQjATHFvhtREjslvMCh1wtgXuMoaA1lpD8yvSXSbt5aus7YsI2T2m-YhVZLTyfq1qqx2ySl4po1MQxH0tIvByIPkSAl7JQ0L2ggnpar7_Lkikg7b9qSUg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://images.trvl-media.com/lodging/26000000/25030000/25027600/25027536/bc8c70e6_z.jpg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/zWmzGaThgfyw75YqR3h2_8u-f8qb2WoUf93LRHya9S5lz5gNLdquG2SGldZAymuWtpSczBPPyKU7MmfRHL43cblD0Oaw3yufko4qnrM7T7OnndoOXep4Q2-RlCqc0-0c1y4W7cGkELwKn14RecqJDKzXjgxrog=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/64/641382/641382a_hb_w_019.jpg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/lvoDZanWg7XG0eNGSbzWsqFz_0dHY2H9MwnEBA2M6A3EgaIr_BhW5qNfngjaJ1pthkClSMhyCknbpFlfsPc6kMxgqZq2dsR4wZgfFGo3XXh3_XBN5J2-n0mMm0FTxBS1SVb6kPW-9qKKknbEY2FI6t9kVzdftig=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KANl33QYFAOElLRVRRhbgdlhpxwOBLsg"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/faY36nlhYZDf9opA0nWaKK4BrMJ_mbizaU0T8Q13XvZRqUuuW8MAxd36eam1_8ZD8nOvGIPqOIrOZCWHLJTKd0lMgJl4G6eTunLtg41kHkXrYiwEc-0bALHiUwLInJhYdo8UEd-dYVyXRJsYE66fpIggFY6LwsU=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAMN33QYFAKMQAq72nxfIESamob4OPIs"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM6hObmKJZmNJMa-QerHsEm9aZ5RvBSqUSG5MUo=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipM6hObmKJZmNJMa-QerHsEm9aZ5RvBSqUSG5MUo=s10000"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/JAtSg-Pkj-3ZPBWrh7PX3kuX6ePEeC9nsvoJJckwoseZiWDYp6jjvV4HvuPkRU7BEpR1cbgtDcgU4RGpMVVEj4AzjETDCe3tN3MP7SjwogrAbm6qFida-j6aEJAnrEtjjYOHLyppx82u-HxcLZsJ96KOwl1akw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/64/641382/641382a_hb_w_029.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/8RJxab9JYKfuYgwZy14itwx7gIkaGn2DiAHH88BWEyC8X5CpCJx7pgUavjVRUOfi1lY_b5h1dnYskgo3pV2VZgHHOSlEZ22sMTxTzdPmLS3VEcF-s43M7l6shjNYaIfo08jP4QraHg-OPuJn_nLzXKcb0Dq4x5A=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAMl33QYFAA4VNyqBkS47doe4uJzQ1iA"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/5sW1xtDWIs_uqUEj1a-3UUYEN9XH7YMyryAPq9tWLGjBtdDYICSRPbFW4-yCWSxJhcQ0AV1verhPnrRenFS2alyv_kPOjhDZjFpGmlI23hHXYlhvnd4GJavQWCCUOLv99k-KdqjA0pC_h-LfSfpIONmG_-XBDQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAME9cAMFANdioQ9lyK-dQiUo54YoPy4"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWAuceEmtZ1TJXWDdqM0QNPGqlYb8FP73TmgDO=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNWAuceEmtZ1TJXWDdqM0QNPGqlYb8FP73TmgDO=s10000"
+				}
+			],
+			"overall_rating": 4.5,
+			"reviews": 221,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 177
+				},
+				{
+					"stars": 4,
+					"count": 17
+				},
+				{
+					"stars": 3,
+					"count": 6
+				},
+				{
+					"stars": 2,
+					"count": 8
+				},
+				{
+					"stars": 1,
+					"count": 13
+				}
+			],
+			"location_rating": 2.4,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 98,
+					"positive": 78,
+					"negative": 13,
+					"neutral": 7
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 65,
+					"positive": 56,
+					"negative": 4,
+					"neutral": 5
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 50,
+					"positive": 34,
+					"negative": 7,
+					"neutral": 9
+				}
+			],
+			"amenities": [
+				"Free Wi-Fi",
+				"Parking ($)",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Kitchen in some rooms",
+				"Business centre",
+				"Child-friendly",
+				"Smoke-free property"
+			],
+			"id": "ChoIsqqA7uuR2b_PARoNL2cvMTFnMG01Nm42NBAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChoIsqqA7uuR2b_PARoNL2cvMTFnMG01Nm42NBAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Taj Coral Reef Resort & Spa",
+			"description": "Refined villas in a plush resort on a private island, plus a spa, an outdoor pool & 4 restaurants.",
+			"link": "https://www.tajhotels.com/en-in/hotels/taj-coral-reef-maldives?utm_source=Google&utm_medium=Local&utm_campaign=Taj-Coral-Reef-Maldives",
+			"gps_coordinates": {
+				"latitude": 4.4820532,
+				"longitude": 73.39402
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$581",
+				"extracted_lowest": 581,
+				"before_taxes_fees": "$568",
+				"extracted_before_taxes_fees": 568
+			},
+			"total_rate": {
+				"lowest": "$5,810",
+				"extracted_lowest": 5810,
+				"before_taxes_fees": "$5,682",
+				"extracted_before_taxes_fees": 5682
+			},
+			"deal": "16% less than usual",
+			"deal_description": "Deal",
+			"nearby_places": [
+				{
+					"name": "Velana International Airport"
+				},
+				{
+					"name": "REETHI RESTAURANT",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "1 min"
+						}
+					]
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/BNnf41dnAumvg4vwn3DHotmumsOzRDFKqnVwJOrJrVAeWyPfNQQ0nR6kE7XSWvy6M9DHc0cYOJKEILz4ZqJFjJKDwYe-Wk_xEIjKhreJExyfLud9BVeomrut6nVdsFIU9sKmdKUA3OUtHzHxwjYP6SvT-k1cyPM=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/117/505/44/TajCoralReef-JivaSpaEntrance(1)_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPOLk4nBwGJ-65sF80mIbHCnHjsYu3UjgkDhsdc=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPOLk4nBwGJ-65sF80mIbHCnHjsYu3UjgkDhsdc=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/bNE-Qn5qm-bzaHm0Mv4Szj8ctyYC4zwOtogbAcYQKSShj3fP86doGoDXQzPRROAfTxQj50S87AWJuTrN-bmogH7z87UDDyZ2pTWrMDyP3Un0Xe47NudQPI10LgIaHo15wL9w1gExBxJpclTVrIY6X-mUeQqkFw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KANbbLAMFADQKi73il35tzzmfScLIRT8"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPzA_HERT0af3dlnrFUGB8krZn6IFPF02KYNxfQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPzA_HERT0af3dlnrFUGB8krZn6IFPF02KYNxfQ=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSv10cBpQxUdJQx5w5hzh_OKEHeRSvli5-UIez=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOSv10cBpQxUdJQx5w5hzh_OKEHeRSvli5-UIez=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMo2tft3bRyeRnFVdyjjiJ2nnCoc6RA14lg3ByV=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMo2tft3bRyeRnFVdyjjiJ2nnCoc6RA14lg3ByV=s10000"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/a4NI7UxaBl7SYeeTQv8McrPsqdwpaqed7Dc2pRJ0mWmk9obH2GwMFYEJgYQnlRWrr6IZGgDAiY1ZEkEtjL6exJvq-whb1r8n76VPuLgd9gybZJCx99EeTlhXOosN13T4MpRuRhptbAKhnFQotxs9Z2uFKsCW9g=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KANHbLAMFAI4ylG9QxoBiLtpUcHwapEY"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/Kc_5kElVs8zOPN9wBsn9IxU8i0kWP8W1e3uOnJ9BfqXd2zcitoP71gxCvzYJpoZU4EOXeJbsztH5NDCT75FZHkqRgklFRdCuZTgYvRjLCME2hE-pwdELWkoyg15exDJYyhDrJDvHYqZy8lL6OAbjVNpLyMoZKw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/117/494/316/BeachBBQ_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/Fd4khyv-vXs8y4NYUEJQo2l-UUVh_bRuOrL1YYgOU_Ca2ntoCSutMcaur5nDn8MrvsrBCL2JwUWI4jhqiYkF86DJpw8FlgDExzHgKeK7aPX6u-ZlYYVyyLpcGAN86RJoaCJVsiRpwqLmLs1dCXfNcWTVUMkzDXs=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAM_bLAMFAB9uFd4n1mFUgxUuOBIU44c"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 840,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 729
+				},
+				{
+					"stars": 4,
+					"count": 77
+				},
+				{
+					"stars": 3,
+					"count": 13
+				},
+				{
+					"stars": 2,
+					"count": 9
+				},
+				{
+					"stars": 1,
+					"count": 12
+				}
+			],
+			"location_rating": 2,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 249,
+					"positive": 237,
+					"negative": 9,
+					"neutral": 3
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 163,
+					"positive": 148,
+					"negative": 10,
+					"neutral": 5
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 159,
+					"positive": 145,
+					"negative": 6,
+					"neutral": 8
+				}
+			],
+			"amenities": [
+				"Breakfast",
+				"Free Wi-Fi",
+				"Parking",
+				"Pool",
+				"Hot tub",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"eco_certified": true,
+			"id": "ChcI5IP9tdCtwIx2GgsvZy8xdGZ2cmQyaBAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChcI5IP9tdCtwIx2GgsvZy8xdGZ2cmQyaBAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Hard Rock Hotel Maldives",
+			"description": "Posh quarters, some with private pools, in a swanky beachfront resort offering dining & a pool.",
+			"link": "https://hotel.hardrock.com/maldives/?utm_source=google&utm_medium=gmb&utm_campaign=hardrockmaldives",
+			"gps_coordinates": {
+				"latitude": 4.1228109,
+				"longitude": 73.4715162
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$494",
+				"extracted_lowest": 494,
+				"before_taxes_fees": "$390",
+				"extracted_before_taxes_fees": 390
+			},
+			"total_rate": {
+				"lowest": "$4,942",
+				"extracted_lowest": 4942,
+				"before_taxes_fees": "$3,899",
+				"extracted_before_taxes_fees": 3899
+			},
+			"nearby_places": [
+				{
+					"name": "Velana International Airport"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGb5bJAABRnXli7o6UkWNbL1g7-hESbzNGyInr=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMGb5bJAABRnXli7o6UkWNbL1g7-hESbzNGyInr=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPjc-JVGPn1ZiBphSXf3ax1F36Zjb6ogmzgSc9T=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPjc-JVGPn1ZiBphSXf3ax1F36Zjb6ogmzgSc9T=s10000"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/s1LTA9pp-0JBSPZzvs-CtmEQ_CZEmy1msJEDm7nSOvBo6NdI0x0351T1hmGB4nZ81wgYM1FiKY-lMqF4LqI7l-9BOi1r0byIj7YouSPK-e3xsxibI8WrxMHnxj9xkbOfUfctxV7R5LbynAhqM0f6bC44VXF-Fg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAOjZTwQFACSPsdR0l3E3Y295XhcT7PE"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/D9dbTqdn94qsrDXkgwOagZ2AnIZw7ybjxkJ1T9yFaQCt7SrCrMmg6YOXyiCZDkeVdw9Z8m6qSFg9OicTgRiRcifMf3weRrZ6IfPwqmYdJS-ZU_EoaVlVhGAoSl8sfMPnwZvvEzlv-EkX6dVfw-dlO12QjQeGmA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAGmkWQMFAFz_91drVBdB9azsvGBQ-Ew"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/u9zjgFo0owet8cfKeauEW-SaXhmXB7whMlOOT22-m7aURyCncsSV86_Granpi_M0z15MnSMy1KwaFaGS_y_aj0cXZgjrd92oIMUcI21Rtu-0V-q18P1jfctRck1Ms8Hwy-RGbjUjHUg8R9YeA34GIQm90yrcyNk=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAO3ZTwQFAJipWh3cvAJ92_gb36U8BLE"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNmJ5Jc4K1kDndgyhnMLNVx5ghx7hYyu4ria8Y6=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNmJ5Jc4K1kDndgyhnMLNVx5ghx7hYyu4ria8Y6=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8Q3sw1vic-vSpMerS8IA5daQl1DczkvA4r3nB=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipM8Q3sw1vic-vSpMerS8IA5daQl1DczkvA4r3nB=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgrydnbIavU3DkCc4ivhLH6eGuNogrGdgKTTtX=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMgrydnbIavU3DkCc4ivhLH6eGuNogrGdgKTTtX=s10000"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/MdlCC8Xvll5zx-ODAvoVIIwmAN7yYMEfJG-6J6KDzUDVwQPQFU_u1alBdpAcp8ZLBmy04YQjPhHJRcW0h-rRb_0zvwuW56aCH2HfqT5X-sVpGzybxBrhtpWCkE7dmrBfV8afKstcIXHqI0zoPNNbChQeo2_nhoM=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/65/658925/658925a_hb_w_012.jpg"
+				}
+			],
+			"overall_rating": 4.7,
+			"reviews": 1036,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 829
+				},
+				{
+					"stars": 4,
+					"count": 135
+				},
+				{
+					"stars": 3,
+					"count": 32
+				},
+				{
+					"stars": 2,
+					"count": 12
+				},
+				{
+					"stars": 1,
+					"count": 28
+				}
+			],
+			"location_rating": 2.8,
+			"reviews_breakdown": [
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 277,
+					"positive": 254,
+					"negative": 13,
+					"neutral": 10
+				},
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 287,
+					"positive": 248,
+					"negative": 28,
+					"neutral": 11
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 107,
+					"positive": 96,
+					"negative": 4,
+					"neutral": 7
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly",
+				"Smoke-free property"
+			],
+			"eco_certified": true,
+			"id": "ChkIpPi5oKSbsrdpGg0vZy8xMWZkNGJudno5EAE",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChkIpPi5oKSbsrdpGg0vZy8xMWZkNGJudno5EAE&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Anantara Dhigu Maldives Resort",
+			"description": "Refined quarters with sunset or sunrise views at a high-end refuge, with 8 restaurants, a spa & gym.",
+			"link": "https://www.anantara.com/dhigu-maldives?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=Dhigu&utm_content=Home&utm_campaign=Google_GMB",
+			"gps_coordinates": {
+				"latitude": 3.9726765,
+				"longitude": 73.5018157
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$763",
+				"extracted_lowest": 763,
+				"before_taxes_fees": "$575",
+				"extracted_before_taxes_fees": 575
+			},
+			"total_rate": {
+				"lowest": "$7,626",
+				"extracted_lowest": 7626,
+				"before_taxes_fees": "$5,746",
+				"extracted_before_taxes_fees": 5746
+			},
+			"deal": "32% less than usual",
+			"deal_description": "Great Deal",
+			"nearby_places": [
+				{
+					"name": "Dhigu",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "2 min"
+						}
+					]
+				},
+				{
+					"name": "Velana International Airport"
+				},
+				{
+					"name": "Fushi Cafe"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOk6RPkH-UDvgp0UmaRWpmmuRBBqyVqeML7xkws=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOk6RPkH-UDvgp0UmaRWpmmuRBBqyVqeML7xkws=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9WxRrvewFQAc-pcfM8cSH9AiCFkLLcXBMzviI=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipN9WxRrvewFQAc-pcfM8cSH9AiCFkLLcXBMzviI=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNni5SRRvGRRxI-afamWtNo1LjFco8goikRbCBZ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNni5SRRvGRRxI-afamWtNo1LjFco8goikRbCBZ=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNOHvk-SsZUYNRmpO5Zl946rARNMgNH6qFOVp1U=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNOHvk-SsZUYNRmpO5Zl946rARNMgNH6qFOVp1U=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYXFsD3CfDSdxn_jJHRnQRqHuxyTB5tSkXbO2X=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMYXFsD3CfDSdxn_jJHRnQRqHuxyTB5tSkXbO2X=s10000"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/kdFXP7q7lVbv9W5bYpRrO8oyepCqHMKBE5lfwk3f4WKAX7uAYcxiSQMsBSjt7_mZZmFrjRWHwEAjxyK-o5PlmFzBE4pbntPNjZMzFDDeMtd1lclXpvEfs-qECLxYclP26IPcjzbczlG0OP4zY5BPi9HEOazekj8=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/13/137847/137847a_hb_ro_058.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMKQILZLXT4IdXINXKKcxmMnx95HdvNz-AfHzx1=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMKQILZLXT4IdXINXKKcxmMnx95HdvNz-AfHzx1=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNMqvalZwtJTTQXXo5no02VU_DAzqZGZEdWCcR-=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNMqvalZwtJTTQXXo5no02VU_DAzqZGZEdWCcR-=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCzLkBRtDlCRxpJZ0NhePHnq1cjGZupwR0v2Tn=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOCzLkBRtDlCRxpJZ0NhePHnq1cjGZupwR0v2Tn=s10000"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 766,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 669
+				},
+				{
+					"stars": 4,
+					"count": 61
+				},
+				{
+					"stars": 3,
+					"count": 16
+				},
+				{
+					"stars": 2,
+					"count": 7
+				},
+				{
+					"stars": 1,
+					"count": 13
+				}
+			],
+			"location_rating": 3.4,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 172,
+					"positive": 155,
+					"negative": 15,
+					"neutral": 2
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 122,
+					"positive": 112,
+					"negative": 5,
+					"neutral": 5
+				},
+				{
+					"name": "Family",
+					"description": "Family friendly",
+					"total_mentioned": 80,
+					"positive": 72,
+					"negative": 5,
+					"neutral": 3
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Business centre",
+				"Child-friendly"
+			],
+			"id": "ChgI7e2_zobz_OUCGgwvZy8xcHp2enp5engQAQ",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChgI7e2_zobz_OUCGgwvZy8xcHp2enp5engQAQ&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Furaveri Maldives",
+			"description": "Chic villas in a high-end island resort with a restaurant & a beach, plus a spa & a dive center.",
+			"link": "http://www.furaveri.com/",
+			"gps_coordinates": {
+				"latitude": 5.440315099999999,
+				"longitude": 72.9081504
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$412",
+				"extracted_lowest": 412,
+				"before_taxes_fees": "$244",
+				"extracted_before_taxes_fees": 244
+			},
+			"total_rate": {
+				"lowest": "$4,122",
+				"extracted_lowest": 4122,
+				"before_taxes_fees": "$2,442",
+				"extracted_before_taxes_fees": 2442
+			},
+			"nearby_places": [
+				{
+					"name": "Dharavandhoo Airport"
+				},
+				{
+					"name": "Rayvilla Restaurant"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/X4xWHmOyLlxHYGCN4lJ1MyCWJv4d4oXue6I1Ty5sTQ2sl1rPMvTmmRAjeZxpL4rlfkuLvBhCs9cPOn-Sj7M6l1qAzrKnLwHEv7uqEDamQy62nmCwqbG7kePYR4YoOygFFbZRdkwZWldXezIuEKomA7znkC20uA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAJ8fwwMFAH2FAG1RGgf88OE0vPW5WnU"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/4zceCLrFH29wIy9t9vV89KlLG5B6s40sHMsEHyrtvB6GvuhlArRoKrNlet1tWw7Lx4bqRB2XtMVJ61L6aEmsYcnidTdewDMZkDW9AWhBm8vXCuieGvCAMkH3UbKhI-Wm6KIyKsLL0StVd8lTieOCYU57v-gOMqg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAFIdDgUFAAV8ihW_kNsV3PY4ukp2f84"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/QD6BmdX7AAEIYgCQL0ww6HS1xBhB0lPBKqeyE-p7sZIj6Xiu2m_XtA3LyBKNVb4UbuLCDp0R5aHzBML_3-zXyO7MU0PqoJ4SO9ISBMJw8AQOx3ZU72pTBaYPgBcVN6WmLRVEn2F36J6dqUE6FPbDs4rwbQUoVw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAJofwwMFAGYNQU6TyLUd8Hy8W_e5P-I"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPW_stSSkNPCmrFv-1fiUg_QAy_2Nbe2lWdBPs=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNPW_stSSkNPCmrFv-1fiUg_QAy_2Nbe2lWdBPs=s10000"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/6jTxQmUiGQUhnn3-6MZEFANejTbaFyZUYaB9Zc01C1Ohus6NjDfVOpQhaXDAOV4tmph5Ep7ej7Tp0Xlif7tfp6ZCrnC5tx6xHr52A4nVydBb-fstdJwgqj5pZIA38fDCD4CdEkVTOUbcDPeXLT_83G3Akk6Ghw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAC7WDQUFAIkbXpsmsFdkzOoeJxWyroo"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/RhJmDfw0HQltGdFDU_4OHHDPibjtelSkEVo9ECZ6dW2dj678yG6BSHs_7mu6S8iQ3Hfj8c7zo_mLbXm7v9SGGs1DJg83RIDi3OXQM135JFmn9FL285xrYXPm2UvUV2XwEN7QZJLjeyonbEfCwKxTm5LfavO6RCM=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAJMfwwMFAPdmCoTPVuLnHs6_IToRNhQ"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMqxCO7-V40bwzMSnzlNetjNkD4DJabzVpsjGL=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMMqxCO7-V40bwzMSnzlNetjNkD4DJabzVpsjGL=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMVR1HVP0XaM65eLOp5cv3S_uRXp7oVleZj-ia4=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMVR1HVP0XaM65eLOp5cv3S_uRXp7oVleZj-ia4=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFsmN7wHVGix56euBQDb_NXdsijS7LiDdgJ24h=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPFsmN7wHVGix56euBQDb_NXdsijS7LiDdgJ24h=s10000"
+				}
+			],
+			"overall_rating": 4.6,
+			"reviews": 861,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 658
+				},
+				{
+					"stars": 4,
+					"count": 120
+				},
+				{
+					"stars": 3,
+					"count": 35
+				},
+				{
+					"stars": 2,
+					"count": 14
+				},
+				{
+					"stars": 1,
+					"count": 34
+				}
+			],
+			"location_rating": 3.1,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 291,
+					"positive": 242,
+					"negative": 36,
+					"neutral": 13
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 194,
+					"positive": 173,
+					"negative": 14,
+					"neutral": 7
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 167,
+					"positive": 146,
+					"negative": 10,
+					"neutral": 11
+				}
+			],
+			"amenities": [
+				"Breakfast ($)",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Accessible",
+				"Child-friendly",
+				"Smoke-free property"
+			],
+			"id": "ChoI8pjj1oby_e3TARoNL2cvMTFjbnkxZzE4dxAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChoI8pjj1oby_e3TARoNL2cvMTFjbnkxZzE4dxAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Mövenpick Resort Kuredhivaru Maldives",
+			"description": "Sophisticated villas with plunge pools in a high-end beach resort offering 3 restaurants & a spa.",
+			"link": "https://movenpick.accor.com/en/asia/maldives/kuredhivaru/resort-kuredhivaru.html?merchantid=seo-maps-MV-B4P5&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&utm_content=Kuredhivaru-Maldives",
+			"gps_coordinates": {
+				"latitude": 5.8750583,
+				"longitude": 73.3432244
+			},
+			"check_in_time": "3:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$389",
+				"extracted_lowest": 389,
+				"before_taxes_fees": "$287",
+				"extracted_before_taxes_fees": 287
+			},
+			"total_rate": {
+				"lowest": "$3,887",
+				"extracted_lowest": 3887,
+				"before_taxes_fees": "$2,869",
+				"extracted_before_taxes_fees": 2869
+			},
+			"nearby_places": [
+				{
+					"name": "Dharavandhoo Airport"
+				},
+				{
+					"name": "Latitude 5.5"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwXO0Df7MNg5UhcjxM0KtmpBLp_OJ0RuTFxmwN=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPwXO0Df7MNg5UhcjxM0KtmpBLp_OJ0RuTFxmwN=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnScB8O3PdhHGdlzlre1x07LVu06RVFzA5Vi7j=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOnScB8O3PdhHGdlzlre1x07LVu06RVFzA5Vi7j=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOE8aWFO1qPWvMsGS6b70ChEb9a9FmUGoZm2ncJ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOE8aWFO1qPWvMsGS6b70ChEb9a9FmUGoZm2ncJ=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMeNn86Zc48RLX2fvzI_m-8fgk62AXiQTt8Gko2=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMeNn86Zc48RLX2fvzI_m-8fgk62AXiQTt8Gko2=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMyI0uUYgjOFs132HgYmIick4_qVH2Gelp1FXNe=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMyI0uUYgjOFs132HgYmIick4_qVH2Gelp1FXNe=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYZuCEwmL5C3pTy0eIoK0I2DYkvaVeXl2VQlvJ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPYZuCEwmL5C3pTy0eIoK0I2DYkvaVeXl2VQlvJ=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMie9z39DBGiSS2Sw-fNWKbfOAYCKmwsTF5j-0_=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMie9z39DBGiSS2Sw-fNWKbfOAYCKmwsTF5j-0_=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODoXSCnp3E6URwbH8QghbdcDUlHGzuBakete_z=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipODoXSCnp3E6URwbH8QghbdcDUlHGzuBakete_z=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/vTeTwe4uQ4S4OC_Jdp9FOB_RDqReMHk1jEy0PEb4vs1oCljzaBmIwXNzpgrbzdPe38IPKP26eCNiS-mBcdoqUT5H3bkpr4nQBIzoMSlljNWPhZj8wQUb_UllgY68in8tYzS5VjnvnQEU0pMCH7Roc7mR66kcYw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/63/639603/639603a_hb_a_012.jpg"
+				}
+			],
+			"overall_rating": 4.9,
+			"reviews": 1965,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 1847
+				},
+				{
+					"stars": 4,
+					"count": 78
+				},
+				{
+					"stars": 3,
+					"count": 13
+				},
+				{
+					"stars": 2,
+					"count": 6
+				},
+				{
+					"stars": 1,
+					"count": 21
+				}
+			],
+			"location_rating": 2.7,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 999,
+					"positive": 964,
+					"negative": 15,
+					"neutral": 20
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 440,
+					"positive": 422,
+					"negative": 6,
+					"neutral": 12
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 369,
+					"positive": 328,
+					"negative": 22,
+					"neutral": 19
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Kitchen in some rooms",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Accessible",
+				"Child-friendly"
+			],
+			"eco_certified": true,
+			"id": "ChoI3oHa-ZipntCFARoNL2cvMTFjMXY4bGo3ehAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChoI3oHa-ZipntCFARoNL2cvMTFjMXY4bGo3ehAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Cinnamon Velifushi Maldives",
+			"description": "High-end island resort offering refined quarters with sea views, plus a spa, dining & multiple bars.",
+			"link": "https://www.cinnamonhotels.com/cinnamonvelifushimaldives?utm_source=google&utm_medium=organic&utm_campaign=cinnamonvelifushimaldives&utm_term=gbp",
+			"gps_coordinates": {
+				"latitude": 3.4994495999999997,
+				"longitude": 73.5290208
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$480",
+				"extracted_lowest": 480,
+				"before_taxes_fees": "$342",
+				"extracted_before_taxes_fees": 342
+			},
+			"total_rate": {
+				"lowest": "$4,796",
+				"extracted_lowest": 4796,
+				"before_taxes_fees": "$3,416",
+				"extracted_before_taxes_fees": 3416
+			},
+			"nearby_places": [
+				{
+					"name": "Felidhoo",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "4 min"
+						}
+					]
+				},
+				{
+					"name": "Velana International Airport"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/elRyFA9UkdAvrDjJqS_-0iZPLNd0W5m2fGKLggHWZVBeGaWLliRE-GtdsCgJof20IOAHipaA6hx1PCGYKInKEnWJ2Ndbh1qUWGAlok_rCEP7oFci2wwkRSKhiHxZLXmVs2wmu-l1NglwmCy9XKxXjMT5L-mm2Y8=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KANFCFwUFAGTiTVuKjzgU9FQj-KktwEQ"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/HO70JKyPOdImk3VtRbxaiUvVJFYqhx-pb1QRZNY8zigaz9KMgc2uqSkQraWTeO2_2TO-k6o__PTMMUzyDjhrd8e2OXUzT0NWIwNspgzH8ttMpmO3ouptlR4PVRvn9w1CIx806YNPXInXlU0CtVvGj7BoD6AbYXE=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/19/52/d0/cinnamon-velifushi-maldives.jpg?w=1900&h=1400&s=1"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNLYXHNu72MDzwQUmQcXFYCVCiONkMGBk-LUNgg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNLYXHNu72MDzwQUmQcXFYCVCiONkMGBk-LUNgg=s10000"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/rcbMpeL4TLPAfvhQOO3pMNzLBY-nd64XjP_lFyyX7vax41z5zJmotKMgbl13e0-vhWQ236Ymj07Jke6AJ85IJH_2JJ7WX_mEYzBBG6ORtM3ZyiQmiT0Ljjovu1PHJrpfSDBAQCCVKdPVCvEin0jIQyxZCMDLtQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAMZCFwUFAEBQ_Maihtlv7hvFntMKqq8"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/TngvPjHht-nFSBH6VwxU4VUi6eyulWs_3psbCDJNQAOUALQOnmIxBo7DwOzHC19e_JjMZ5WVhyTem8GoR3PZXYC6E57P9LHMS2FX1zBungQvtAjLL5JbBozN-lJAtcEy7rYl-EGX5X_jSAnVhBbMzGy4qk0MTag=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/66/665464/665464a_hb_ro_053.jpg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/UCUogCXrDxRyicltRBIei7aqY1L3bROsXksYm2W040QZx4lUq-PgcGE5AQ0HRzptNs-94uH_lPiQKggXgG3I4ZN8gHJoh9S-DhUhN7eLweX4J43xzax7fA6mUgRyEO3PQgjH3PeEDxgTmqfcq4q70mI9y9wYJ5U=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/66/665464/665464a_hb_ro_067.JPG"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/PkwSYsZT1xknX4fIEdC3n1RmgRAkeGTw5wPQxaOK2HZECYBpNJNRFyi3yjGrioGD6HcOY0Eu5bD5c6yau2sdCBLqVL3HUY3Ig1wf0Ip9xXWOYC34ReAkFsk6xUINjhOAUI752QN2qp2uoSQDjES7QMyZaiDpVAU=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/66/665464/665464a_hb_ro_057.JPG"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/mbwjs_MDftIheMw87Km4F79u0C4gsgwaJLC8X7vhHonQ-x8gVwp53xnc3PG3m0Y52-dRmNEi5LNZrqtud_jC7Sh2xebmp7sCOILr2CreNySXHBW5P_CR38UV28OXzGJILQeYM2_bBmVQYfmkf8ZI8IIf6c6o3g=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f5/fc/37/caption.jpg?w=2100&h=1400&s=1"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/K8vmdw6M9X2e0OUtGkdij-J2KaEqyXmIlHatvrBXgjP523Y4FwXSfDhEMq08BrdGzd10ZCNfukC1NYhmwW7N3-YURWE142wF8sQLI0VjfugIdN3iw6joHOWkeF2XUD7g2w4DGmoG4_jIWfL6c9FH-w9Lwaw9dg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ce/be/4e/photo3jpg.jpg?w=1200&h=900&s=1"
+				}
+			],
+			"overall_rating": 4.9,
+			"reviews": 1587,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 1463
+				},
+				{
+					"stars": 4,
+					"count": 71
+				},
+				{
+					"stars": 3,
+					"count": 25
+				},
+				{
+					"stars": 2,
+					"count": 9
+				},
+				{
+					"stars": 1,
+					"count": 19
+				}
+			],
+			"location_rating": 2.4,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 785,
+					"positive": 756,
+					"negative": 21,
+					"neutral": 8
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 473,
+					"positive": 451,
+					"negative": 7,
+					"neutral": 15
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 341,
+					"positive": 308,
+					"negative": 20,
+					"neutral": 13
+				}
+			],
+			"amenities": [
+				"Breakfast ($)",
+				"Free Wi-Fi",
+				"Pool",
+				"Hot tub",
+				"Air conditioning",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"id": "ChoIjpmeu8-lyYDUARoNL2cvMTFoM3loeDlsbhAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChoIjpmeu8-lyYDUARoNL2cvMTFoM3loeDlsbhAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Waldorf Astoria Maldives Ithaafushi",
+			"description": "Elegant villas with pools in a high-end beach resort offering a spa, plus 11 restaurants & bars.",
+			"link": "https://www.hilton.com/en/hotels/mleonwa-waldorf-astoria-maldives-ithaafushi/?SEO_id=GMB-APAC-WA-MLEONWA",
+			"gps_coordinates": {
+				"latitude": 4.0137154,
+				"longitude": 73.3830321
+			},
+			"check_in_time": "3:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$2,425",
+				"extracted_lowest": 2425,
+				"before_taxes_fees": "$2,039",
+				"extracted_before_taxes_fees": 2039
+			},
+			"total_rate": {
+				"lowest": "$24,253",
+				"extracted_lowest": 24253,
+				"before_taxes_fees": "$20,393",
+				"extracted_before_taxes_fees": 20393
+			},
+			"nearby_places": [
+				{
+					"name": "Velana International Airport"
+				},
+				{
+					"name": "NAVA"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO3nCElMpi_oeUyK101L2Eqz30v-M0N9lCXCJH4=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipO3nCElMpi_oeUyK101L2Eqz30v-M0N9lCXCJH4=s10000"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/L-HUcV6zxNQ6V5mwok2BcCmpCVda0OY1cmZXpvXHve3Sjz0gqJ3eHXybf3JUpI7jw0d8qL2sA0-xYa3I0c4FqVJ2u3PFj96EIFcGCrkaXn5R3CKnDY-LutXJ0tyYOyh9d85X_wJRNGgKfnMc8OAJ8Xpyp9wwYQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/155/271/979/74363949_4K_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/mqHXytbhsH2A8oBhKZXIXI8ufyTbPVpf-MlqMOI8LYNRNDTDdpYIYuSfpvEfzLukKI1MdZIGOHiP6zyEtEyppopv3ak-PIC8PcH2BeBkvq5ZwVyIoY0ciitVbwr8Z7JCQu7Vyt7O3eJRa0rtDDYaKnuLNgu7Cf0=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/155/272/71/74363177_4K_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM9eCeG3JEEzaFAMPAOpbcUXlSM_KWE0Y1Jq3T4=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipM9eCeG3JEEzaFAMPAOpbcUXlSM_KWE0Y1Jq3T4=s10000"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/p0byKghmAu2Ppams2dCGk_-XVnafG8sILy_bIEUG9ChTkQhc6Mof5KGENVPqb1ZjV05KOXp8HBGLA5XdFCPbCKSZgSa5gqSQVZkzLanSnMaIz_xk_GD9dPVC0mcId-oh9V6K3spgLcsR7jS2Anh_WhLDOZS7Jg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/155/272/238/74363205_4K_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO8I4P9sKh7tKL9nbSOn6bzwRWsaYNsR2CI2GQN=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipO8I4P9sKh7tKL9nbSOn6bzwRWsaYNsR2CI2GQN=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwxQhtsGyCihDwlWae6dVtXGA-G8hh8nBocRFk=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMwxQhtsGyCihDwlWae6dVtXGA-G8hh8nBocRFk=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNf6DfDk7cdLLhcFMpmkhxBKwUbZUz7jzI5mKhU=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNf6DfDk7cdLLhcFMpmkhxBKwUbZUz7jzI5mKhU=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYHD2eUJbMgfhMJz0wMFS9EQA0UpM4cC1Y0tfb=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPYHD2eUJbMgfhMJz0wMFS9EQA0UpM4cC1Y0tfb=s10000"
+				}
+			],
+			"overall_rating": 4.7,
+			"reviews": 449,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 390
+				},
+				{
+					"stars": 4,
+					"count": 24
+				},
+				{
+					"stars": 3,
+					"count": 10
+				},
+				{
+					"stars": 2,
+					"count": 6
+				},
+				{
+					"stars": 1,
+					"count": 19
+				}
+			],
+			"location_rating": 2,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 119,
+					"positive": 99,
+					"negative": 17,
+					"neutral": 3
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 96,
+					"positive": 89,
+					"negative": 6,
+					"neutral": 1
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 51,
+					"positive": 43,
+					"negative": 2,
+					"neutral": 6
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"eco_certified": true,
+			"id": "ChkI0JOH0J3ZkJkVGg0vZy8xMWYwd203eGg4EAE",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChkI0JOH0J3ZkJkVGg0vZy8xMWYwd203eGg4EAE&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Anantara Veli Maldives Resort",
+			"description": "Modern, overwater bungalows in a resort with 8 restaurants, an Ayurvedic spa & a dive centre.",
+			"link": "https://www.anantara.com/veli-maldives?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=Veli&utm_content=Home&utm_campaign=Google_GMB",
+			"gps_coordinates": {
+				"latitude": 3.967374,
+				"longitude": 73.505465
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$764",
+				"extracted_lowest": 764,
+				"before_taxes_fees": "$630",
+				"extracted_before_taxes_fees": 630
+			},
+			"total_rate": {
+				"lowest": "$7,644",
+				"extracted_lowest": 7644,
+				"before_taxes_fees": "$6,304",
+				"extracted_before_taxes_fees": 6304
+			},
+			"deal": "28% less than usual",
+			"deal_description": "Great Deal",
+			"nearby_places": [
+				{
+					"name": "Veliganduhuraa",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "1 min"
+						}
+					]
+				},
+				{
+					"name": "Velana International Airport"
+				},
+				{
+					"name": "Origami Japanese Restaurant",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "2 min"
+						}
+					]
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPz7-Ic-9S87cgOOYpdl0pZAO4Q0hZhd7_yYJTW=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPz7-Ic-9S87cgOOYpdl0pZAO4Q0hZhd7_yYJTW=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJJVUO2eGTLZHrjtSQf4hGQhOqu3YreNR8Z5MG=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNJJVUO2eGTLZHrjtSQf4hGQhOqu3YreNR8Z5MG=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_XGM7owI9Zf968Z-xzqE4C_t4Mi_ZD8-A6q1m=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipP_XGM7owI9Zf968Z-xzqE4C_t4Mi_ZD8-A6q1m=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN0ni0GBqd1s7wOYXU--5Hiq9NvO4CHRqJn3Nzy=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipN0ni0GBqd1s7wOYXU--5Hiq9NvO4CHRqJn3Nzy=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP119-tWF_o77srzOt6YlzDnxCtvMd4bu38u1Br=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipP119-tWF_o77srzOt6YlzDnxCtvMd4bu38u1Br=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbgMN6ALn2hvVKXPidt_aUZutV6IKGCI_teFDm=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMbgMN6ALn2hvVKXPidt_aUZutV6IKGCI_teFDm=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPsvRi2zXeDTqBkYJlGUfSj8C-dSbR7bhjaD-5H=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPsvRi2zXeDTqBkYJlGUfSj8C-dSbR7bhjaD-5H=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqSgSZw57tP3LAUxFns857DlAOW0k_LuCstQVk=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNqSgSZw57tP3LAUxFns857DlAOW0k_LuCstQVk=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdhYc-WaHxKyTowWYlznID7zjwtk1VIU6fMq-0=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOdhYc-WaHxKyTowWYlznID7zjwtk1VIU6fMq-0=s10000"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 923,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 822
+				},
+				{
+					"stars": 4,
+					"count": 58
+				},
+				{
+					"stars": 3,
+					"count": 18
+				},
+				{
+					"stars": 2,
+					"count": 11
+				},
+				{
+					"stars": 1,
+					"count": 14
+				}
+			],
+			"location_rating": 2.8,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 214,
+					"positive": 206,
+					"negative": 5,
+					"neutral": 3
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 138,
+					"positive": 131,
+					"negative": 3,
+					"neutral": 4
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 74,
+					"positive": 67,
+					"negative": 2,
+					"neutral": 5
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Kitchen in some rooms",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Business centre"
+			],
+			"id": "ChgIr86Yhcez0NLYARoLL2cvMXRuamdfcXcQAQ",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChgIr86Yhcez0NLYARoLL2cvMXRuamdfcXcQAQ&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "LUX South Ari Atoll",
+			"description": "Bright thatched villas, some with pools, in a plush resort offering 7 restaurants, 6 bars & a spa.",
+			"link": "https://www.luxresorts.com/en/maldives/hotel/luxsouthariatoll",
+			"gps_coordinates": {
+				"latitude": 3.498685,
+				"longitude": 72.896175
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "11:00 AM",
+			"rate_per_night": {
+				"lowest": "$606",
+				"extracted_lowest": 606,
+				"before_taxes_fees": "$405",
+				"extracted_before_taxes_fees": 405
+			},
+			"total_rate": {
+				"lowest": "$6,061",
+				"extracted_lowest": 6061,
+				"before_taxes_fees": "$4,048",
+				"extracted_before_taxes_fees": 4048
+			},
+			"nearby_places": [
+				{
+					"name": "Villa International airport maamigili"
+				},
+				{
+					"name": "MIXE (formerly The Island Kitchen)"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/kpEZ5BDFF33dJJpMyNtE8AuxNXJcNtJ2hQhy31pYDnOe-wAJBszFBwT551mLd8lEdOQ-uanXwIAXeSGNliCzxoew03vQXfuS_FRHESV8IqIsTFpnxh3LIh6NQdbPCJwHvZx390c2zRRFxmrWO9qtggzMTC8ISsE=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KANFUcgYFAGJDWqyv9760DNFuFVgN8mI"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/ioWvfjxyY-2B0C8u0fZwAeo56qcEEIMYjPcFTR5aq2-Bioguv8RU9iYqdOfP8u4bRLgq1duR4sSpvSVxQcMc4fYL8QCcPy4LLV3SR65ueo0ix2f1ntJw9WstzP9ejMtUu_jUkNt2IUi06qnOK47g0H-s50Dy4w=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAPI7BwUFAGaLO0nES-qhzAIMA_JcNL8"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNJFaY1RewHIRo3RNRpUT2-2GkgqMbOR3pdOXK=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNNJFaY1RewHIRo3RNRpUT2-2GkgqMbOR3pdOXK=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOoYwSHtpYNLuUfDcQSEz2g8lqblwIYkyoviHrm=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOoYwSHtpYNLuUfDcQSEz2g8lqblwIYkyoviHrm=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtAm4WWvWrQRz4ZS4quq0EdjKjKCtP4ffUlXDY=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPtAm4WWvWrQRz4ZS4quq0EdjKjKCtP4ffUlXDY=s10000"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/cj15EmYlS7qqEYQ9FFyrzBpgTflYfc2ql4bimoCli0qAcp_t65KrqpPLEP-oOJq-VW34EPKU8wSvN8Ci6GbesLP0BFxkzGnzv7mfqaG-tuYK9jYHuAgKh99RmB1MqJ-dSXRi57RKI8cvybcKz2PIcCP79ffVYJk=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KABtKAQUFAF3IpxJqOGBnqmtegTJ2TtY"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOpdVHsav_EbBphbDt94XGT-6SkEPEJGKFtsWsg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOpdVHsav_EbBphbDt94XGT-6SkEPEJGKFtsWsg=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMkTzByyVdf8pdD3u9NA8IZKR8qwKUviS0z9NGU=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMkTzByyVdf8pdD3u9NA8IZKR8qwKUviS0z9NGU=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIN0tllHCKSGdMrHXuKIeZfWJdaUwNH9HnapsS=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOIN0tllHCKSGdMrHXuKIeZfWJdaUwNH9HnapsS=s10000"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 943,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 832
+				},
+				{
+					"stars": 4,
+					"count": 62
+				},
+				{
+					"stars": 3,
+					"count": 18
+				},
+				{
+					"stars": 2,
+					"count": 14
+				},
+				{
+					"stars": 1,
+					"count": 17
+				}
+			],
+			"location_rating": 2.8,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 203,
+					"positive": 179,
+					"negative": 16,
+					"neutral": 8
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 152,
+					"positive": 136,
+					"negative": 9,
+					"neutral": 7
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 109,
+					"positive": 93,
+					"negative": 9,
+					"neutral": 7
+				}
+			],
+			"amenities": [
+				"Breakfast ($)",
+				"Free Wi-Fi",
+				"Hot tub",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"id": "ChcIl9Ln45D06JwLGgsvZy8xdGhzN3NwcRAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChcIl9Ln45D06JwLGgsvZy8xdGhzN3NwcRAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Pullman Maldives All-Inclusive Resort",
+			"description": "High-end all-inclusive island resort with chic villas, a beach & a pool, plus restaurants & bars.",
+			"link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=9924&merchantid=seo-maps-MV-9924&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTUzNjE1ODMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+			"gps_coordinates": {
+				"latitude": 0.8475402999999999,
+				"longitude": 73.4071876
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$957",
+				"extracted_lowest": 957,
+				"before_taxes_fees": "$670",
+				"extracted_before_taxes_fees": 670
+			},
+			"total_rate": {
+				"lowest": "$9,569",
+				"extracted_lowest": 9569,
+				"before_taxes_fees": "$6,700",
+				"extracted_before_taxes_fees": 6700
+			},
+			"nearby_places": [
+				{
+					"name": "Kooddoo-Viligili Airport"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9EGamfVRydz-JMYsj6AuNLruRNFL6MtFbOqjJ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipP9EGamfVRydz-JMYsj6AuNLruRNFL6MtFbOqjJ=s10000"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/GqIExyPMRjnHLeK9NyUr-LeijIXsyi8bFpvDcUEpzyzpypNacGI-_2_RW-IdYl-Lq6d3eGYLkLMBs8B6LCSL4mR2jx47_Tov2IDfrKPueEczGs8Jw9mI0BcTy6zKlh407IqxPEVV4BEHQ7rHQkTVGLtbuBQRvls=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAMpZUgQFANvhp24tXUL4K_v4zvpkBhA"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/e_athvUWeQQ-SoZcu72Bvd2qIiVVS63lJSN3pSclubUNoZPRoVcyu3TVLlSkMPDsQ_hMSxbfK6lwnXY0UPtHxB-Lk0kpGEK3Isypxj779jJvcq4lUCBWIxy_U-fNgBszXPN3XMgdA3SLGIk_zFEL4rcsa-ElvWU=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/67/676087/676087a_hb_ro_040.jpg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/sv8CHkH0p7_urO_9pUoWjeltxKnU6t_D315AY-KIyTct7uOW_kuD_sDjwhe60_oU7lyv9h54Pz6RAzV8wmJnz6m851rWmezFtL-IC2_W_QCfsG2fTNsVEqE9SwK4hiQFARVnKymjzXIbwyacAxDjpKMIfDqHWQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAL5ZUgQFAFMB3TjnUhmcjCEKHtVBsc4"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/fafCmx6rxDS_7pIixYzPeiv-3xZHXaia4FbFE64ueh6A_Ej0HgzBeumtnVU82zHdMgNsVjouiBPPkVf6HG3ES3r2IblTLVnywbJQyRJmG6bbhXPXQTwwtgtTbs3jSMxxZcgz9VdkM0Fw21aQ8kiZxJci3ZvyRGw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/124/90/304/9924_wd_02_p_3000x2250_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/J0_5DIenLKUTEyDftrdtvy-K8ytirpB4i-1QXRUF3NP8lD_3evP_Bc_KlBa6rlX59drAPiEzEPGb8FNM7lED_LQqr4YM6AEZDKeZFHab01g6YA8KU6L25kT4FjHZkbmdbOFW-BWDbN8THok7MyHdp_E_b6HUyg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/145/252/572/9924_rov2a_03_p_3000x2250_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/0sqZaUmIRgZQ0kSP8oHVl8EE3z9LTlxWg5v_piG_Z3_tJ10pFuUGpwSlhQxHb4HW46QPDAc2OSlVmBdiRgGEpsZrPPo-XMeUmZa7J4JJZ50vSrA1aIvGd9tmjbrA5WrbuaPMdwbnr4yz_pbCTIlyuzjuY3uwcg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/117/231/654/9924_rsr001_01_p_3000x2250_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/WQC8G0v-BJZLxipVYZt6a6wb41cPhEWaX18VFZ4gSm7ivjZhJL8hzO-IDLKJ1FwwDXsAbHsWW7er5cvfYZwhzYPZ4hn3ea4vsajgitmcrF1jqVDgI5mvRW2CEZEs8tcnZLaud3-aAl7XllFfNNBL642NbG4nrJ8=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAMZZUgQFAFPG5MQLcFGppPxscS9kuik"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/zkq-omBKTKBm4gII-eH_sVA5pxNe1h2qHkF38vPS7fE3vdzqAgI9wK5s9dDHznXnhT4hTtdcFRAH_RU41Sag8ymFGGxsGShFKqvHzJLk7sqdRYbpAxJWgWewxtuGjJHwu385G22iTXdxzTtF3yEG41LGpWcGB1s=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/124/90/225/9924_wd_01_p_3000x2250_O.jpg"
+				}
+			],
+			"overall_rating": 5,
+			"reviews": 2808,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 2723
+				},
+				{
+					"stars": 4,
+					"count": 62
+				},
+				{
+					"stars": 3,
+					"count": 6
+				},
+				{
+					"stars": 2,
+					"count": 4
+				},
+				{
+					"stars": 1,
+					"count": 13
+				}
+			],
+			"location_rating": 1.9,
+			"reviews_breakdown": [
+				{
+					"name": "Wellness",
+					"description": "Wellness",
+					"total_mentioned": 1327,
+					"positive": 1289,
+					"negative": 10,
+					"neutral": 28
+				},
+				{
+					"name": "Spa",
+					"description": "Spa",
+					"total_mentioned": 1081,
+					"positive": 1047,
+					"negative": 7,
+					"neutral": 27
+				},
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 545,
+					"positive": 521,
+					"negative": 17,
+					"neutral": 7
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Parking",
+				"Outdoor pool",
+				"Hot tub",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Kitchen in some rooms",
+				"Airport shuttle",
+				"Golf",
+				"Full-service laundry",
+				"Business centre",
+				"Child-friendly"
+			],
+			"id": "ChoI7dacqq6Qypn8ARoNL2cvMTFoNGRrdzkxdxAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChoI7dacqq6Qypn8ARoNL2cvMTFoNGRrdzkxdxAB&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Villa Nautica, Maldives",
+			"description": "Airy, upscale rooms set on the beach or over the lagoon, plus water sports, a spa & relaxed dining.",
+			"link": "https://villaresorts.com/villa-nautica",
+			"gps_coordinates": {
+				"latitude": 4.2868031,
+				"longitude": 73.553675
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$508",
+				"extracted_lowest": 508,
+				"before_taxes_fees": "$364",
+				"extracted_before_taxes_fees": 364
+			},
+			"total_rate": {
+				"lowest": "$5,078",
+				"extracted_lowest": 5078,
+				"before_taxes_fees": "$3,638",
+				"extracted_before_taxes_fees": 3638
+			},
+			"nearby_places": [
+				{
+					"name": "Lankanfushi",
+					"transportations": [
+						{
+							"type": "Taxi",
+							"duration": "1 min"
+						}
+					]
+				},
+				{
+					"name": "Velana International Airport"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/ugvj5j-C0hUQum3Tquawr96fO6oDNpzr29AkEmP-pf_fHp7XbgqHXPgfwn8GTxpARM2m3TPR2VswVGHCeDgG3DMdlK_mUXf7ROfJP7ZUsyId7CAyxtUOeqZHt9Lr3Vte2TUWkP_swXPxoSDN8BdmyjgKXT3UMfk=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b5/b2/c4/sunset-beach-pool-villa.jpg?w=1900&h=1400&s=1"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNwtWqYRC6gY_JBCbe8sH6fn25xrTf53lstD5wD=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNwtWqYRC6gY_JBCbe8sH6fn25xrTf53lstD5wD=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMzDenBIYJW2K9Gg9VqauP-uMLSo-bg-RQ0SqXc=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMzDenBIYJW2K9Gg9VqauP-uMLSo-bg-RQ0SqXc=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_Q96FT1CEw6TveQ2ywgoeTfl3bsh4vEsGN0nE=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipP_Q96FT1CEw6TveQ2ywgoeTfl3bsh4vEsGN0nE=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQpHVThNUBvc8yoNjq0ttuNhv30gweGrPnbRdI=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNQpHVThNUBvc8yoNjq0ttuNhv30gweGrPnbRdI=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOGvFwWlC7xd7i-wTs35DpM7oUV1pUh0cZOSkv3=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOGvFwWlC7xd7i-wTs35DpM7oUV1pUh0cZOSkv3=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOAfoaNMAXcijQ7jxLA5MfhKgpbh0rxv27EWGS3=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOAfoaNMAXcijQ7jxLA5MfhKgpbh0rxv27EWGS3=s10000"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/7F-IOBXQnDj0NZBG5imf1UxziZNF41Pcvqu6ogOCSjb5EDsiwufSOtFsck0YdY8ATdbS6wysUDwTFuFy68noRcphwFEsxT05T8Kjo8S7pR4j3utHiCLg_kQ_mcOl__d-yst--cogByPHKAuyuDC4bKUedZK8PQ=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://images.trvl-media.com/lodging/2000000/1940000/1932500/1932406/f6dee326_z.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPo9nQsm45L4wncYhV4BYAL_mGAu48tVEWGYhL5=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPo9nQsm45L4wncYhV4BYAL_mGAu48tVEWGYhL5=s10000"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 15868,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 14177
+				},
+				{
+					"stars": 4,
+					"count": 1327
+				},
+				{
+					"stars": 3,
+					"count": 167
+				},
+				{
+					"stars": 2,
+					"count": 45
+				},
+				{
+					"stars": 1,
+					"count": 152
+				}
+			],
+			"location_rating": 3.5,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 7834,
+					"positive": 7651,
+					"negative": 97,
+					"neutral": 86
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 3863,
+					"positive": 3722,
+					"negative": 66,
+					"neutral": 75
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 2650,
+					"positive": 2427,
+					"negative": 108,
+					"neutral": 115
+				}
+			],
+			"amenities": [
+				"Breakfast ($)",
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Business centre",
+				"Child-friendly"
+			],
+			"id": "ChYIvoTOoNi3kqxRGgovbS8wa2JncXJiEAE",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChYIvoTOoNi3kqxRGgovbS8wa2JncXJiEAE&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Le Méridien Maldives Resort & Spa",
+			"link": "https://www.marriott.com/en-us/hotels/mlemd-le-meridien-maldives-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+			"gps_coordinates": {
+				"latitude": 5.2738976,
+				"longitude": 73.58820879999999
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$591",
+				"extracted_lowest": 591,
+				"before_taxes_fees": "$363",
+				"extracted_before_taxes_fees": 363
+			},
+			"total_rate": {
+				"lowest": "$5,906",
+				"extracted_lowest": 5906,
+				"before_taxes_fees": "$3,626",
+				"extracted_before_taxes_fees": 3626
+			},
+			"nearby_places": [
+				{
+					"name": "Olhuvelifushi",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "8 min"
+						}
+					]
+				},
+				{
+					"name": "Dharavandhoo Airport"
+				},
+				{
+					"name": "Velaa Bar & Grill"
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTZU_rCVBQg6DRnkwcjc1s5xAHHuPYBaMVsVLo=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipNTZU_rCVBQg6DRnkwcjc1s5xAHHuPYBaMVsVLo=s10000"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/PyVlZ3TO3ywJor7SHNKzzyiujjQWrqT4O3nenW3NbqZSw9IW85wS7drcoNfZcilhcfKrzWQEPBZXCgg1vDShmnisXzN2dvdsH00_V964MBdFMhD2Wo8A-cnnZzOVOoSkfaPIDN06OXP4uSM3sZv8ud5QQWCKm_w=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/171/99/901/md-mlemd-mlemd-floating-lunch-05-11191_Classic-Hor_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/xEOmvgaQjgq30F1-8vXRX-zVklGnx23-vCIck80fjT44m7rx-y6tFt3efV1GZEQwzTuwRfLcvzFGBrMGq4_U7P8yG7uUr3vzgZvtT4yAnGopJRhgBNI77t6F8U9XYOve3JyBwCfBeYGkpTRheD1C4wUxS1DV1rU=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/169/784/175/md-mlemd-mer-mlemd-aerial-shots-be-20772_Classic-Hor_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/rfc7TZq7EhNLBn-I_EvH3I4OiqDSPeyK43Wm54biRMb7lDw7Wsq9onWwS0wmbas_BUxTqd9cKA51etHPLaw-lSTOOL73DvbxKbE9IkxndvddgrNkfLg_VXTjBU5N8Vf-LK1T4guIUnKslvwsnZsKJoxtB6vZlg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/145/755/86/md-mlemd-indoor-outdoor-ba12506-34021_Classic-Hor_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh3.googleusercontent.com/proxy/DR0RvDu7OJR6QKjA_qgBUrJgj7Vg1LcDbLai0qxMVfktivQAkCpNE78fINULRw-ioh8lKHiozmVss168yNkI-56_MAffbPn8BZgpkTXKAgfmIbdsoK8Wx-dqKgOOdc5zPvIanJopdMcapmeaBWowWqGtNNxBNA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/145/755/102/md-mlemd-sunset-overwater--25826-37742_Classic-Hor_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/_phH-YnDUjN-qaK2tKhFby0EGutxxuTNIBy-nFbQr4feAcKW0UGtXL-eRC7uV2Hb62i45SuBGxDBoROjOh3yWfk0nuR1atNokQ6d7GaMMvIVTIyeRMLKVce0qHegJGc3N-qmlzgXH-7zRX2FbLAu1LZGrXvcjg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/170/791/777/md-mlemd-mer-mlemd-overwater-villa-39951_Classic-Hor_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/UZTuF07oEbquICh70WjQ2mCpcEbiDjs6BUctNYcdMyD8CzYquC6EJukD9w9hcHZ_FRfVjkD-ZXXGPbsgVrA5DumtxACl644FibuD2poqyIbeBD1ouWYzY8QTZN_gP7AQ7DntAtazycRzQq-IXoECO4rsiOkYTA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/144/70/695/md-mlemd-reception-interior-96114_Classic-Hor_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh6.googleusercontent.com/proxy/WTv1mTyffH8GYGmLgqxniBOkZBHahUOzUTyKbGQT5iNWRlUCMuDhOIIzyopPc69arNCAZGuvwvmki2GILAEa_iGE3swjdh0uiCyS9BVj6B9-Ekc-57BUW1_J8dy5eivxaf3Lgev7TYAZ9Dz6KuvFUo4WV7ffzqA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/171/99/785/md-mlemd-mlemd-romantic-for-two-01-23630_Classic-Hor_O.jpg"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/cMHJOYV0LQ3F4CMAYiZH3eSDsua3y61e9OQVlo-3pJFosfuc3gphrTY7HK7_8VhIkidOmEsQ4mJuZ1520R2BO0ApIrOh8x-R1PGAgxa5HjvMqip8NTKp5V0-_R-U71F94gMmEEVEnLmyiePFsK5LxthCpGGqsVM=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/144/70/923/md-mlemd-restaurant-interior-26583_Classic-Hor_O.jpg"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 270,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 242
+				},
+				{
+					"stars": 4,
+					"count": 12
+				},
+				{
+					"stars": 3,
+					"count": 5
+				},
+				{
+					"stars": 2,
+					"count": 4
+				},
+				{
+					"stars": 1,
+					"count": 7
+				}
+			],
+			"location_rating": 2.4,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 148,
+					"positive": 131,
+					"negative": 9,
+					"neutral": 8
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 108,
+					"positive": 92,
+					"negative": 8,
+					"neutral": 8
+				},
+				{
+					"name": "Nature",
+					"description": "Nature and outdoor activities",
+					"total_mentioned": 82,
+					"positive": 74,
+					"negative": 5,
+					"neutral": 3
+				}
+			],
+			"amenities": [
+				"Free Wi-Fi",
+				"Outdoor pool",
+				"Air conditioning",
+				"Fitness centre",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Full-service laundry",
+				"Accessible",
+				"Child-friendly"
+			],
+			"id": "ChkI2POno-bP-e8cGg0vZy8xMW5tcnFoMzBkEAE",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChkI2POno-bP-e8cGg0vZy8xMW5tcnFoMzBkEAE&q=maldives+resorts"
+		},
+		{
+			"type": "hotel",
+			"name": "Dhigali Maldives",
+			"description": "Serene quarters in a high-end beachfront resort offering a spa, dining & outdoor infinity pools.",
+			"link": "https://www.dhigali.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+			"gps_coordinates": {
+				"latitude": 5.4755595999999995,
+				"longitude": 72.9541425
+			},
+			"check_in_time": "2:00 PM",
+			"check_out_time": "12:00 PM",
+			"rate_per_night": {
+				"lowest": "$709",
+				"extracted_lowest": 709,
+				"before_taxes_fees": "$458",
+				"extracted_before_taxes_fees": 458
+			},
+			"total_rate": {
+				"lowest": "$7,089",
+				"extracted_lowest": 7089,
+				"before_taxes_fees": "$4,581",
+				"extracted_before_taxes_fees": 4581
+			},
+			"deal": "17% less than usual",
+			"deal_description": "Deal",
+			"nearby_places": [
+				{
+					"name": "Meedhoo",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "7 min"
+						}
+					]
+				},
+				{
+					"name": "Dharavandhoo Airport"
+				},
+				{
+					"name": "Orchid Garden Restaurant",
+					"transportations": [
+						{
+							"type": "Walking",
+							"duration": "6 min"
+						}
+					]
+				}
+			],
+			"hotel_class": "5-star hotel",
+			"extracted_hotel_class": 5,
+			"images": [
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/MUBe76UswfKLxUk3al_UxZaTU1lx-EabtZvPIukI_VdA2GxeHcxzgsqV9PTfZENoOH6uITjQ2-PDf8jdkcH6Jq6LIO76pn5EdoC1UHGbUm6j2HDTIYwuv2VUGm_REbBzB-zHpOLLsCsB3kE7luOsir6WUzWbbg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAGt2AgUFAMTvkyz9UFSQbuo-k-jTfnY"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPjW8yotUcPCHOosCUBvKrFDaws_3_j9am6KXit=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipPjW8yotUcPCHOosCUBvKrFDaws_3_j9am6KXit=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/FZjDpVjjoHTT0eet4CqMuO3H3dxnfvThLoi3Y_QQvhhbgwz5mgpJjy9PnttxwWXKVI-HIx_j5wzM_ABimXVn2NAe3hpzhtSbyEq_H_jcScoBAOsp5nLa38zNmfo_DqGglTJ1-Y2bRa6-8yWweta3Ug_7CrrXxw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://photos.hotelbeds.com/giata/original/54/547581/547581a_hb_ba_001.jpg"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/qmlzQG9Gqfv9wX4DvZwVv7aG6joDbs8C2QAvQjgyQ0n3n7Eu2V8JkFkUKpNZkNSP00_WwLJqzrScrIiu-Jl-tbeEXgp4-EZ3LvQ9BxkvFS-MERyUXTinUOUhlNprLX6_OEuEYG908GWzAxBPGi80t32LhKuORw=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://cdn.worldota.net/t/1024x768/content/71/63/7163e8c4e17a93f13d0b91482cbefade6a97f187.jpeg"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/proxy/bp0y5G1Y8YY7davksvgOIpEVBlM6H8MMVAl9MO3CzyJpnp9-lflsYB-WtKyeuVhvvF3w5shpb0Hz6MN7H0rk1Gexj4rUYRWBqt7LWhboyUykkF5gwkvaTvUKxZQ6XsRFDiKtITJjjtSAF3Ru-MBlLDp9D-voIg=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAElN3gYFAJrIA7vopOEoy0x-EIhFezo"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOS3ql8Q97563hPbeEpS6Gqx5B6hXKB34akew_5=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipOS3ql8Q97563hPbeEpS6Gqx5B6hXKB34akew_5=s10000"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOL3VuWkK1A8nc_wi5Qmh9UCZsNrVk2Eg6W3i2=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMOL3VuWkK1A8nc_wi5Qmh9UCZsNrVk2Eg6W3i2=s10000"
+				},
+				{
+					"thumbnail": "https://lh4.googleusercontent.com/proxy/-DOqwbaKUmYY-loGD65OuCFiCNlAulGQFumFXhaJ4cFaRo_ZdUB-OzZLbPP0p3I1lYv2AyoG3_ezawcMA3yZmvCud3VVR37cJyzCFgCckeIvU8pS_Jtpnh6WZ1nL8dBdwgsCE6P0hQlniL__aCUyOd2SxuVztQA=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/71/9c/dhigali-maldives.jpg?w=2100&h=1400&s=1"
+				},
+				{
+					"thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMfEX2Xlk7nUZIEeptwIR50H0OLbyYqv5ch83sO=s287-w287-h192-n-k-no-v1",
+					"original_image": "https://lh5.googleusercontent.com/p/AF1QipMfEX2Xlk7nUZIEeptwIR50H0OLbyYqv5ch83sO=s10000"
+				}
+			],
+			"overall_rating": 4.8,
+			"reviews": 419,
+			"ratings": [
+				{
+					"stars": 5,
+					"count": 368
+				},
+				{
+					"stars": 4,
+					"count": 32
+				},
+				{
+					"stars": 3,
+					"count": 9
+				},
+				{
+					"stars": 2,
+					"count": 4
+				},
+				{
+					"stars": 1,
+					"count": 6
+				}
+			],
+			"location_rating": 4.1,
+			"reviews_breakdown": [
+				{
+					"name": "Service",
+					"description": "Service",
+					"total_mentioned": 100,
+					"positive": 93,
+					"negative": 5,
+					"neutral": 2
+				},
+				{
+					"name": "Property",
+					"description": "Property",
+					"total_mentioned": 60,
+					"positive": 55,
+					"negative": 3,
+					"neutral": 2
+				},
+				{
+					"name": "Dining",
+					"description": "Food and Beverage",
+					"total_mentioned": 59,
+					"positive": 51,
+					"negative": 5,
+					"neutral": 3
+				}
+			],
+			"amenities": [
+				"Free breakfast",
+				"Free Wi-Fi",
+				"Pools",
+				"Air conditioning",
+				"Fitness centre",
+				"All-inclusive available",
+				"Spa",
+				"Beach access",
+				"Bar",
+				"Restaurant",
+				"Room service",
+				"Airport shuttle",
+				"Full-service laundry",
+				"Child-friendly"
+			],
+			"id": "ChoI9cCQvbiel82PARoNL2cvMTFjNXJtc2RieRAB",
+			"serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&id=ChoI9cCQvbiel82PARoNL2cvMTFjNXJtc2RieRAB&q=maldives+resorts"
+		}
+	],
+	"serpapi_pagination": {
+		"current_from": 1,
+		"current_to": 18,
+		"next_page_token": "CBI=",
+		"next": "https://serpapi.com/search.json?adults=2&check_in_date=2024-11-20&check_out_date=2024-11-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&hotel_class=5&next_page_token=CBI%3D&q=maldives+resorts"
+	}
+}

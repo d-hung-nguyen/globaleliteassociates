@@ -1,0 +1,51 @@
+h1,
+h2,
+h3,
+h4 {
+	font-family: "alta", sans-serif;
+}
+
+.h1-sans,
+.h2-sans,
+.h3-sans,
+.h4-sans,
+.h5-sans {
+	font-family: "raleway", sans;
+}
+
+h1,
+.h1-sans {
+	font-size: 10rem;
+	line-height: 12rem;
+	font-weight: 500;
+}
+
+h2,
+.h2-sans {
+	font-size: 8rem;
+}
+
+h3,
+.h3-sans {
+	font-size: 6rem;
+	line-height: 7rem;
+}
+
+h4,
+.h4-sans {
+	font-size: 4rem;
+	line-height: 4.7rem;
+}
+
+h5,
+.h5-sans {
+	font-size: 3rem;
+}
+
+.copy {
+	font-size: 2rem;
+}
+
+.copy-small {
+	font-size: 15px;
+}
